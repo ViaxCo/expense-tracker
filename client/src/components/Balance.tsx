@@ -22,7 +22,7 @@ const Balance = () => {
         color="gray.700"
       >
         {currencySymbol ? currencySymbol : "$"}
-        {numberWithCommas(Math.abs(+total))}
+        {numberWithCommas(+total)}
       </Heading>
     </Flex>
   );
