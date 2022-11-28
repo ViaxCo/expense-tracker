@@ -43,4 +43,4 @@ The frontend production files would be contained in: "client/build", while the b
 
 ## Demo
 
-A live demo of the code can be found here: [Expense Tracker](https://viaxco-expense-tracker.herokuapp.com/)
+A live demo of the code can be found here: [Expense Tracker](https://viaxco-expense-tracker.onrender.com)
