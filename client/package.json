@@ -14,7 +14,7 @@
     "@types/node": "^12.19.15",
     "@types/react": "^16.14.2",
     "@types/react-dom": "^16.9.10",
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "currency-symbol-map": "^5.0.1",
     "focus-visible": "^5.2.0",
     "framer-motion": "^3.2.2-rc.1",
